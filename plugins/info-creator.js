@@ -4,7 +4,7 @@ const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
 FN: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
-item.ORG: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
+item.ORG: ᴹᴿ᭄ Maulana_1ঔৣ꧂
 item1.TEL;waid=6285850539404:79609055704@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
 item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
