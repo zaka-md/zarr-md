@@ -1,35 +1,35 @@
 // INI SC MASIH ADA BUG YA FIX IN AJA
 // BASE ILMANHDYT
 // SC ORI HYZER
-// CREATOR KRIZYN OFC
+// CREATOR Lans OFC
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404','79609055704'] 
+global.owner = ['6283132749084','79609055704'] 
 global.mods = [''] 
-global.prems = ['6285850539404'] 
+global.prems = ['6283132749084'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404','79609055704',
-global.instagram = 'https://instagram.com/Jarotr_'
-global.github = 'https://github.com/Alpiii22'
-global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.nameowner = 'ᴹᴿ᭄  owner ganteng🗿ঔৣ꧂'
+global.numberowner = '6283132749084','79609055704',
+global.instagram = 'https://instagram.com/lans_store'
+global.github = 'https://github.com/Meicantik12'
+global.Youtube = 'https://youtube.com/channel/UCkKLIItskN7msaTBn7Ok2NA'
 global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.dana = '087723886270'
+global.pulsa = '083132749084'
+global.gopay = '083132749084'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
-global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
+global.gc = 'https://chat.whatsapp.com/GMeg3v1UanMCyplPpvXYHs'
+global.web = 'https://youtube.com/channel/UCkKLIItskN7msaTBn7Ok2NA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/lans_03'
+global.pulsa = '083132749084'
+global.nomer = 'https://wa.me/6283132749084' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -46,8 +46,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙Dark-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Lans-md'
+global.wm3 = 'Lans-md'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -58,7 +58,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Darkbotz'
-global.author = '@Jarot'
+global.author = '@LANS-MULTIDEVICE'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
