@@ -5,6 +5,7 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
+"autobio": false,
 global.owner = ['6283132749084','79609055704'] 
 global.mods = [''] 
 global.prems = ['6283132749084'] 
